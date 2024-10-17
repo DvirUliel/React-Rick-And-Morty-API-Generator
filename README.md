@@ -18,16 +18,18 @@ This project is a simple React application that utilizes the Rick and Morty API 
 ## Getting Started
 
 1. **Clone the Repository**:
+   ```bash
    git clone https://github.com/yourusername/rick-and-morty-api-generator.git
    cd rick-and-morty-api-generator
    
 2. **Install Dependencies**:
    Ensure you have Node.js installed. Then, run:
+   
    npm install
    
-3. **Start the Development Server**:
+4. **Start the Development Server**:
    npm start
    
-4. **Open in Browser**:
+5. **Open in Browser**:
    Visit http://localhost:3000 to view the application.
    
