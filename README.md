@@ -23,9 +23,9 @@ This project is a simple React application that utilizes the Rick and Morty API 
    cd rick-and-morty-api-generator
    
 2. **Install Dependencies**:
-   Ensure you have Node.js installed.
+   Ensure you have Node.js installed. Then, run: 
 
-   Then, run: npm install
+   npm install
 
 4. **Start the Development Server**:
 
