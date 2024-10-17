@@ -19,7 +19,7 @@ This project is a simple React application that utilizes the Rick and Morty API 
 
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/yourusername/React-Rick-And-Morty-API-Generator.git
+   git clone https://github.com/DvirUliel/React-Rick-And-Morty-API-Generator.git
    cd rick-and-morty-api-generator
    
 2. **Install Dependencies**:
