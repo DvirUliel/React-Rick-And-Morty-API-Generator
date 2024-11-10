@@ -1,23 +1,13 @@
-import logo from './logo.svg';
 import './App.css';
+import RickAndMorty from './RickAndMorty';
 
 function App() {
   return (
-    <div className="App">
+    <div>
       <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
+        <img src="https://www.icegif.com/wp-content/uploads/2022/06/icegif-519.gif" className='logo-image' alt="logo" />
       </header>
+      <RickAndMorty />
     </div>
   );
 }
